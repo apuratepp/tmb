@@ -1,6 +1,6 @@
-# Tmb
+# TMB
 
-**TODO: Add description**
+Elixir API wrapper for [TMB API V1](https://developer.tmb.cat/api-docs/v1)
 
 ## Installation
 
