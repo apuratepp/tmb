@@ -23,8 +23,7 @@ defmodule Tmb.MixProject do
     [
       {:tesla, "~> 1.2.1"},
       {:hackney, "~> 1.14.0"},
-      {:jason, ">= 1.0.0"},
-      {:exvcr, "~> 0.10", only: :test}
+      {:jason, ">= 1.0.0"}
     ]
   end
 end
